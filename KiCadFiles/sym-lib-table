@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "rpi_pico-th")(type "KiCad")(uri "${KIPRJMOD}/OF1PI/rpi_pico-th.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw-symbols/RP2040.kicad_sym")(options "")(descr ""))
+)
